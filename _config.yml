@@ -1,6 +1,7 @@
 title: Leiri 2020
 description: Leirisivu 2020
-baseurl: "leiri2020"
+baseurl: "/leiri2020"
+url: "https://millakortelainen.github.io/leiri2020/"
 
 markdown: kramdown
 plugins:
