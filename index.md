@@ -20,3 +20,6 @@ Sana algoritmi tulee persialaisen matemaatikon ja tähtitieteilijän Muhammed ib
 [Algoritmi - Wikipedia](https://fi.wikipedia.org/wiki/Algoritmi)
 
 ### Opettajat
+* Opettaja 1
+* Opettaja 2
+* Opettaja 3

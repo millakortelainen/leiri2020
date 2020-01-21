@@ -160,8 +160,9 @@
 <body onLoad="initPuzzle();">
 
 
-    <section class="content">
-        {%include header.html%}
+
+    {%include header.html%}
+    <div class="content">
         {{ content }}
 
         <div id="puzzle" style="display: none">
@@ -224,12 +225,6 @@
                     left; click that to indicate that you think you have the answer.
                     You can also right-click to mark squares as definitely known.
 
-
+    </div>
 </body>
-
-</section>
-
-
-
-
 </html>
