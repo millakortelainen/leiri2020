@@ -1,0 +1,56 @@
+<div onload="initPuzzle();">
+    <div id="puzzle" style="display: inline;">
+        <div id="gamemenu">
+            <ul>
+                <li>Game...<ul>
+                        <li id="specific">Enter game ID</li>
+                        <li id="random">Enter random seed</li>
+                        <li id="save">Download save file</li>
+                        <li id="load">Upload save file</li>
+                    </ul>
+                </li>
+                <li>Type...<ul id="gametype">
+                        <li data-index="0"><span style="color: transparent; padding-right: 0.5em;">✓</span>5x5, 3 balls
+                        </li>
+                        <li data-index="1"><span style="color: inherit; padding-right: 0.5em;">✓</span>8x8, 5 balls</li>
+                        <li data-index="2"><span style="color: transparent; padding-right: 0.5em;">✓</span>8x8, 3-6
+                            balls
+                        </li>
+                        <li data-index="3"><span style="color: transparent; padding-right: 0.5em;">✓</span>10x10, 5
+                            balls
+                        </li>
+                        <li data-index="4"><span style="color: transparent; padding-right: 0.5em;">✓</span>10x10, 4-10
+                            balls
+                        </li>
+                        <li data-index="-1"><span style="color: transparent; padding-right: 0.5em;">✓</span>Custom</li>
+                    </ul>
+                </li>
+                <li class="separator"></li>
+                <li id="new" class="afterseparator">New game</li>
+                <li id="restart">Restart game</li>
+                <li id="undo" class="disabled">Undo move</li>
+                <li id="redo" class="disabled">Redo move</li>
+                <li id="solve">Solve game</li>
+            </ul>
+        </div>
+        <div align="center">
+            <div id="resizable" style="position: relative; left: 0px; top: 0px; width: 352px;">
+                <canvas style="display: block" id="puzzlecanvas" width="352" height="352" tabindex="1">
+                </canvas>
+                <div id="statusbarholder" style="display: block; width: 352px;">
+                    <div
+                        style="overflow: hidden; width: 348px; height: 1.2em; text-align: left; background: rgb(216, 216, 216) none repeat scroll 0% 0%; border-color: rgb(200, 200, 200) rgb(232, 232, 232) rgb(232, 232, 232) rgb(200, 200, 200); border-style: solid; border-width: 2px;">
+                        Balls marked: 0 / 5</div>
+                </div>
+                <canvas width="10" height="10"
+                    style="position: absolute; z-index: 98; bottom: 0px; right: 0px; cursor: se-resize;"
+                    title="Drag to resize the puzzle. Right-click to restore the default size."></canvas>
+            </div>
+            <p>
+                Link to this puzzle:
+                <a id="permalink-desc" href="#w8h8m5M5:59839563deddc803f03a3513">by game ID</a>
+                <a id="permalink-seed" href="#w8h8m5M5#426114522701404" style="display: inline;">by random seed</a>
+            </p>
+        </div>
+    </div>
+</div>
