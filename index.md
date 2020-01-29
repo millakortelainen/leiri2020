@@ -46,3 +46,8 @@ Vuonna 2021 aloittaa myös uusi tytöille suunnattu kilpailu
 
 Saat leirillä tietoa olympialaisista ja voit miettiä,
 haluaisitko harjoitella ja osallistua niihin.
+
+## Kysyttävää?
+
+Jos haluat kysyä jotain leiristä, voit lähettää viestin leirin
+koordinaattorille (Antti Laaksonen, ahslaaks@cs.helsinki.fi).
