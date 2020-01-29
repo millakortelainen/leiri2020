@@ -2,21 +2,38 @@
 layout: page
 title: lerisivu
 ---
-# Algoritmileiri 3.8.-7.8.2020
+# Algoritmileiri 3.8.–7.8.2020
 
-Kesällä 2020 järjestetään alle 8,9-luokkalaisille ja lukion 1 ja 2 luokat suunnattu algortimileiri.
-Hae mukaan 29.2.2010 mennessä. Leiriltä on mahdollisuus päästä Tyttöjen koodauskilpailuun.
+Oletko 15–18-vuotias, pidät matematiikasta ja haluaisit
+oppia ongelmanratkaisua tietokoneella? Tämä leiri on sinua varten!
 
-Leirin on tarkoitus mahdollistaa tytöille tasa-arvoisempi mahdollisuus opiskella ohjelmointia ja matematiikkaa. Leiri on ilmainen osallistujille. Myös kuljetus leiripaikalle on ilmainen.
+Leiri järjestetään Espoossa Hotelli Nuuksiossa
+ja on osallistujille ilmainen. [Hae mukaan]() 29.2. mennessä!
 
-Jätä hakemus 29.2.2010 mennessä.
+## Mitä leirillä tehdään?
 
-Leirillä on puhujina muunmoassa puhuja1, puhuja2 ja puhuja3.
+Toivomme leirille osallistujia monista eri taustoista.
+Emme odota aiempaa kokemusta ongelmanratkaisusta tietokoneella,
+mutta leiri tarjoaa haasteita myös niille, joille tämä on ennestään tuttua.
+
+Leirillä opettelemme ohjelmointia ja algoritmien suunnittelua.
+Tarkoituksena on antaa hyvä kuva siitä, mistä asiassa on kysymys,
+ja kannustaa opettelemaan lisää leirin jälkeen.
+
+Leirin ohjaajat ovat Helsingin yliopiston opettajia ja tutkijoita.
+
+## Leirille hakeminen
+
+Hakuaika leirille on 3.–29.2. Valitsemme osallistujat hakemusten
+perusteella maaliskuun alussa.
+
+[Lähetä hakemus]()
+
+Leirille osallistuminen (majoitus, ruokailut, opetus) on ilmaista
+valituille osallistujille.
 
 ## Aihe 1
 
 ## Aihe 2
 
 ## Aihe 3
-
-Kokeile alla olevaa peliä.
