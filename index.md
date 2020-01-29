@@ -30,7 +30,7 @@ perusteella maaliskuun puoliväliin mennessä.
 
 Leiri järjestetään Espoossa Hotelli Nuuksiossa.
 Leirille osallistuminen (majoitus, ruokailut, opetus) on ilmaista
-valituille osallistujille.
+leirille valituille.
 
 ## Tie yliopistoon
 
@@ -44,5 +44,5 @@ algoritmiikan olympialaisiin (_International Olympiad in Informatics_).
 Vuonna 2021 aloittaa myös uusi tytöille suunnattu kilpailu
 (_European Girls' Olympiad in Informatics_).
 
-Saat leirillä tietoa näistä kilpailuista ja voit miettiä,
+Saat leirillä tietoa olympialaisista ja voit miettiä,
 haluaisitko harjoitella ja osallistua niihin.
