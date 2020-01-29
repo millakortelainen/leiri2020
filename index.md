@@ -7,18 +7,17 @@ title: lerisivu
 Oletko 15–18-vuotias, pidät matematiikasta ja haluaisit
 oppia ongelmanratkaisua tietokoneella? Tämä leiri on sinua varten!
 
-Leiri järjestetään elokuun alussa Espoossa Hotelli Nuuksiossa
-ja on ilmainen leirille valituille. [Hae mukaan]() 29.2. mennessä!
+Leiri järjestetään elokuun alussa Espoossa. Hae mukaan 29.2. mennessä!
 
 ## Mitä leirillä tehdään?
 
-Leirillä opettelemme ohjelmointia ja algoritmien suunnittelua.
+Leirillä opimme ohjelmointia ja algoritmien suunnittelua.
 Tarkoituksena on antaa hyvä yleiskuva aihepiiristä
 ja kannustaa opettelemaan lisää leirin jälkeen.
 
 Toivomme leirille osallistujia monista eri taustoista.
 Emme odota aiempaa kokemusta leirin aiheista,
-mutta leiri tarjoaa haasteita myös jo aiheita tunteville.
+mutta leiri tarjoaa haasteita myös jo alaa tunteville.
 
 Leirin ohjaajat ovat Helsingin yliopiston opettajia ja tutkijoita.
 
@@ -29,6 +28,7 @@ perusteella maaliskuun puoliväliin mennessä.
 
 [Lähetä hakemus]()
 
+Leiri järjestetään Espoossa Hotelli Nuuksiossa.
 Leirille osallistuminen (majoitus, ruokailut, opetus) on ilmaista
 valituille osallistujille.
 
