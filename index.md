@@ -26,7 +26,7 @@ Leirin ohjaajat ovat Helsingin yliopiston opettajia ja tutkijoita.
 Hakuaika leirille on 3.–29.2. Valitsemme osallistujat hakemusten
 perusteella maaliskuun puoliväliin mennessä.
 
-[Lähetä hakemus]()
+[Lähetä hakemus](https://elomake.helsinki.fi/lomakkeet/103339/lomake.html)
 
 Leiri järjestetään Espoossa Hotelli Nuuksiossa.
 Leirille osallistuminen (majoitus, ruokailut, opetus) on ilmaista
