@@ -19,7 +19,6 @@ body,html {
 
   .header{
       text-align: center;
-    /*  color: rgb(252, 163, 17);*/
       height: 30%;
       padding: 150px 0px 0px 0px;
       background-color: rgba($color: #ffffff, $alpha: 0.5);
@@ -30,11 +29,10 @@ body,html {
       width: 100%;
       margin: 0;
       left: 0px;
-      margin-left: 0; 
+      margin-left: 0;
+      font-size: 2rem;
   }
-  .header h1 {
-    font-size: 4rem;
-  }
+  
   
   .footer{
       text-align: center;
@@ -46,6 +44,6 @@ body,html {
     height: 15%;
 }
 #OPHlogo {
-    width: 9%;
-    height: 9%;
+    width: 7%;
+    height: 7%;
 }
