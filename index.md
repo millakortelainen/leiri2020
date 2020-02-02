@@ -52,7 +52,7 @@ kokoamista. Leena Salmela on tutkinut algoritmeja, joilla näistä
 miljoonista lyhyistä palasista kootaan automaattisesti eliön koko perimä.
 Perimän tunteminen on keskeistä, kun halutaan ymmärtää, kuinka eliöt
 toimivat, miten maapallon elämä on kehittynyt ja mistä sairaudet johtuvat
-sekä kuinka ne voidaan parantaa.
+sekä kuinka ne voidaan parantaa. *Kuva: Joel Grandell*
 
 <img style="float: right; width: 50%; height: 50%;" src='weir.jpeg'>
 **David Weir** (he/him or they/them) is Associate Professor of gravitational wave cosmology, and Academy Research Fellow at the University of Helsinki. He uses large simulations of the first moments after the Big Bang to try to explain how the universe got the way it is today. Employing thousands of computer cores and as much as a million CPU-hours, he is working to model the way in which the events of the early universe leave behind an echo, as a background of gravitational waves. This background can potentially be picked up by future gravitational wave experiments, such as the European Space Agency LISA mission. He is also interested in wellbeing issues, and making academia a kinder place for everyone.
