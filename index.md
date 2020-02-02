@@ -69,3 +69,7 @@ haluaisitko harjoitella ja osallistua niihin.
 
 Jos haluat kysyä jotain leiristä, voit lähettää viestin leirin
 koordinaattorille (Antti Laaksonen, ahslaaks@cs.helsinki.fi).
+
+## Peli
+
+Testaa onglemanratkaisukykyäsi pelaamalla peliä. Keksitkö mahdollisimman vähän askelia vaativan ratkaisun?
