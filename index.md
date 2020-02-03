@@ -40,7 +40,7 @@ leirille valituille.
 Leirillä kuulet myös, millaista on opiskella ja tutkia
 algoritmeja yliopistossa. Leirin keynote-puhujat ovat:
 
-<img style="float: right; width: 50%; height: 50%;" src='Salmela3.jpg'>
+<img style="float: right; width: 25%; height: 25%" src='Salmela3.jpg'>
 **Leena Salmela** on väitellyt tohtoriksi Teknillisestä korkeakoulusta (nyk.
 Aalto-yliopisto) 2009. Hän työskentelee akatemiatutkijana Helsingin
 yliopiston tietojenkäsittelytieteen osastolla. Leena Salmela tutkii
@@ -57,7 +57,7 @@ Perimän tunteminen on keskeistä, kun halutaan ymmärtää, kuinka eliöt
 toimivat, miten maapallon elämä on kehittynyt ja mistä sairaudet johtuvat
 sekä kuinka ne voidaan parantaa. *Kuva: Joel Grandell*
 
-<img style="float: right; width: 50%; height: 50%;" src='weir.jpeg'>
+<img style="float: right; width: 25%; height: 25%" src='weir.jpeg'>
 **David Weir** (he/him or they/them) is Associate Professor of gravitational wave cosmology, and Academy Research Fellow at the University of Helsinki. He uses large simulations of the first moments after the Big Bang to try to explain how the universe got the way it is today. Employing thousands of computer cores and as much as a million CPU-hours, he is working to model the way in which the events of the early universe leave behind an echo, as a background of gravitational waves. This background can potentially be picked up by future gravitational wave experiments, such as the European Space Agency LISA mission. He is also interested in wellbeing issues, and making academia a kinder place for everyone.
 
 **Laura Ruotsalainen** toimii Helsingin yliopiston tietojenkäsittelytieteen osastolla apulaisprofessorina tutkimusalanaan spatiotemporaalinen data-analyysi kestävyystieteessä. Hänen tutkimusryhmänsä keskittyy konenäkö-, estimointi- ja koneoppimisalgoritmien kehittämiseen tarkan ja luotettavan navigointidatan muodostamiseksi ja hyödyntämiseksi kestävyystieteen tarpeisiin, erityisesti älykaupunkien kehittämisessä. Ruotsalainen vetää lisäksi Research Alliance for Autonomous Systems (RAAS)- verkostossa työryhmää, joka keskittyy mm. automaattiajoneuvojen ja droonien kehittämiseen.
