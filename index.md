@@ -7,11 +7,11 @@ title: lerisivu
 Oletko 15–18-vuotias, pidät matematiikasta ja haluaisit
 oppia ongelmanratkaisua tietokoneella? Tämä leiri on sinua varten!
 
-Leiri järjestetään elokuun alussa Espoossa. Hae mukaan 29.2. mennessä!
+Leiri järjestetään elokuun alussa Espoon Nuuksiossa. Hae mukaan 1.3.2020 mennessä!
 
 ## Mitä leirillä tehdään?
 
-Leirillä opimme ohjelmointia ja algoritmien suunnittelua.
+Leirillä opitaan ohjelmointia ja algoritmien suunnittelua.
 Tarkoituksena on antaa hyvä yleiskuva aihepiiristä
 ja kannustaa opettelemaan lisää leirin jälkeen.
 
@@ -23,8 +23,11 @@ Leirin ohjaajat ovat Helsingin yliopiston opettajia ja tutkijoita.
 
 ## Leirille hakeminen
 
-Hakuaika leirille on 3.–29.2. Valitsemme osallistujat hakemusten
+Hakuaika leirille päättyy 1.3.2020. Valitsemme osallistujat hakemusten
 perusteella maaliskuun puoliväliin mennessä.
+
+Leirin ennakkotehtävänä on ratkaista netissä oleva pulma,
+johon pääset <a href="game.html">tästä</a>. Mikä on lyhin ratkaisu, jonka löydät?
 
 [Lähetä hakemus](https://elomake.helsinki.fi/lomakkeet/103339/lomake.html)
 
@@ -69,11 +72,8 @@ Vuonna 2021 aloittaa myös uusi tytöille suunnattu kilpailu
 Saat leirillä tietoa olympialaisista ja voit miettiä,
 haluaisitko harjoitella ja osallistua niihin.
 
-## Kysyttävää?
+## Yhteystiedot
 
 Jos haluat kysyä jotain leiristä, voit lähettää viestin leirin
 koordinaattorille (Antti Laaksonen, ahslaaks@cs.helsinki.fi).
 
-## Testaa onglemanratkaisukykyäsi
-
-Ongelmanratkaisutaito on tärkeä osa ohjelmointi ja matemaattistaosaamista. Kokeile taitojasi pelillä. Keksitkö mahdollisimman vähän askelia vaativan ratkaisun?
