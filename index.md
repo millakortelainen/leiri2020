@@ -27,7 +27,7 @@ Hakuaika leirille päättyy 1.3.2020. Valitsemme osallistujat hakemusten
 perusteella maaliskuun puoliväliin mennessä.
 
 Leirin ennakkotehtävänä on ratkaista netissä oleva pulma,
-johon pääset <a href="game.html">tästä</a>. Mikä on lyhin ratkaisu, jonka löydät?
+johon pääset <a href="peli.html">tästä</a>. Mikä on lyhin ratkaisu, jonka löydät?
 
 [Lähetä hakemus](https://elomake.helsinki.fi/lomakkeet/103339/lomake.html)
 
@@ -76,4 +76,3 @@ haluaisitko harjoitella ja osallistua niihin.
 
 Jos haluat kysyä jotain leiristä, voit lähettää viestin leirin
 koordinaattorille (Antti Laaksonen, ahslaaks@cs.helsinki.fi).
-

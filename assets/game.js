@@ -1,5 +1,7 @@
 debug = false
 
+liikkeet = []
+
 function etäisyys(hahmo1, hahmo2) {
     const dx = hahmo1.X - hahmo2.X
     const dy = hahmo1.Y - hahmo2.Y
@@ -209,6 +211,7 @@ map = [
 
 resetCanvas.onclick = () => {
     reset()
+    liikkeet = []
 }
 setInterval(() => {
     pelaajaLiikkui = false
@@ -332,6 +335,7 @@ setInterval(() => {
         }
         if (pelaajaLiikkui) {
             pelaaja.askeleet += 1
+            liikkeet.push(" " + pelaaja.suunta)
         }
     }
 
@@ -384,8 +388,12 @@ function piirrä() {
         piirtäjä.fillText("voitit pelin!", 50, 90)
         piirtäjä.font = '25px sans'
         piirtäjä.fillStyle = "black"
-        piirtäjä.fillText("Siirryit "+pelaaja.askeleet+" askelta.", 50, 125)
-        
+        piirtäjä.fillText("Siirryit " + pelaaja.askeleet + " askelta.", 50, 125)
+
+        liikkeetTulostus = document.getElementById("liikkeet")
+
+        liikkeetTulostus.textContent = "Kopioi hahmosi tekemät askeleet hakemukseen tästä: " + liikkeet
+
         cancelAnimationFrame(piirrä)
     } else {
         requestAnimationFrame(piirrä)
