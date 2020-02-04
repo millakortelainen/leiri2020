@@ -57,6 +57,8 @@ body,html {
     display: inline;
  }
 
- .image{
-     width: 100px;
+ @media screen and (max-width: 500px) {
+     .header {
+         height: 40%;
+     }
  }
